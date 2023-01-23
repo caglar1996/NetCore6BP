@@ -1,0 +1,11 @@
+BP.API ->API katmanýmýz burdan dýþ dünyaya açýlacak.
+BP.API.Data.Models -> DB'deki tablolara karþýlýk gelen modeller burada oluþturulacak.
+BP.API.Data.Service -> Db iletiþimi kullanacaðýmýz service
+BP.API.Models -> Frontend'e yada dýþ dünyaya gönderilmek üzere hazýrlanmýþ verilerin modelleri burada tutulacak.
+BP.API.Service -> Business Ýþlemizin yapýldýðý service 
+
+1- Domain Design
+2- Configuration (ortama baðlý ayarlar)
+ * .Net5 ve 6 farklarýný, IConfiguration ve ConfigurationManager arasýndaki farklarý gördüm
+3- HealtCheck (Uygulama Saðlýk durumu)
+4- AutoMapper

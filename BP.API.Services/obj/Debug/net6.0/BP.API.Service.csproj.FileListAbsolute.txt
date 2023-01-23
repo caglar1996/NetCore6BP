@@ -1,0 +1,17 @@
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Service.deps.json
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Service.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Service.pdb
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Data.Models.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Models.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Data.Models.pdb
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\bin\Debug\net6.0\BP.API.Models.pdb
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.csproj.AssemblyReference.cache
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.AssemblyInfoInputs.cache
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.AssemblyInfo.cs
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.csproj.CoreCompileInputs.cache
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.csproj.CopyComplete
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\refint\BP.API.Service.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\BP.API.Service.pdb
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API.Services\obj\Debug\net6.0\ref\BP.API.Service.dll
