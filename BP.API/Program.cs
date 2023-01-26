@@ -1,3 +1,4 @@
+using BP.API.BackgroundServices;
 using BP.API.Extensions;
 using BP.API.Models;
 using BP.API.Service;
@@ -29,6 +30,9 @@ namespace BP.API
             builder.Services.ServiceDependency();
 
             builder.Services.AddTransient<IValidator<ContactDTO>, ContactValidator>();
+
+
+            builder.Services.AddHostedService<DateTimeLogWriter2>();
 
             builder.Services.AddHttpClient("GarantiApi", config =>
             {

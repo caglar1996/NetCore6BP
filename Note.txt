@@ -12,4 +12,7 @@ BP.API.Service -> Business Ýþlemizin yapýldýðý service
 5- Validation (Doðrulama ve Kontrol Mekanizmasýna)
 6- Controller ve Http methodlarýnýn route
 7- Caching
-8-IHttpFactory (Harici api çaðýrma performansý) 
+8- IHttpFactory (Harici api çaðýrma performansý) 
+9- IHostedService (Winfrom içinde thread ile zamana baðlý çalýþma mantýðýnýn web uygulamalarýna uyarlanmasý)
+ * .Net 3ten sonra IHostedService yerine microsoft BackgroundService Abstract classýný getirdi. Daha geliþmiþ olarak.
+ En Temel fark BackgroundService IDisposible türetilerek içi oldu þekilde geliyor
