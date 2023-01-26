@@ -1,15 +1,18 @@
 ﻿using AutoMapper;
 using BP.API.Data.Models;
 using BP.API.Models;
+using System.Net.Http;
 
 namespace BP.API.Service
 {
     public class ContactService : IContactService
     {
         private readonly IMapper mapper;
-        public ContactService(IMapper mapper)
+        private readonly IHttpClientFactory httpClientFactory;
+        public ContactService(IMapper mapper, IHttpClientFactory httpClientFactory)
         {
             this.mapper = mapper;
+            this.httpClientFactory = httpClientFactory;
         }
 
         public ContactDTO GetContactById(int id)
@@ -18,6 +21,8 @@ namespace BP.API.Service
 
             // Get value from Db
             Contact dbContact = GetDummyContact();
+
+            var client = httpClientFactory.CreateClient("GarantiApi");
 
             //ContactDTO result = mapper.Map<ContactDTO>(dbContact); // Diğer Kullanım
 

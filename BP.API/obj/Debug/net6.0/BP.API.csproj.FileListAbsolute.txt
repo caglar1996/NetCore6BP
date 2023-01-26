@@ -38,3 +38,13 @@ D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\BP.API.Models.pdb
 D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\BP.API.Service.pdb
 D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\BP.API.Data.Models.pdb
 D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\AutoMapper.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\FluentValidation.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\_Calismalar\.Net\Techbuddy\BP.API\BP.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

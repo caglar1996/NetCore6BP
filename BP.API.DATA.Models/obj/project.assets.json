@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Calismalar\\.Net\\Techbuddy\\BP.API\\BP.API.DATA.Models\\BP.API.DATA.Models.csproj",
-      "projectName": "BP.API.DATA.Models",
-      "projectPath": "D:\\_Calismalar\\.Net\\Techbuddy\\BP.API\\BP.API.DATA.Models\\BP.API.DATA.Models.csproj",
+      "projectUniqueName": "D:\\_Calismalar\\.Net\\Techbuddy\\BP.API\\BP.API.DATA.Models\\BP.API.Data.Models.csproj",
+      "projectName": "BP.API.Data.Models",
+      "projectPath": "D:\\_Calismalar\\.Net\\Techbuddy\\BP.API\\BP.API.DATA.Models\\BP.API.Data.Models.csproj",
       "packagesPath": "C:\\Users\\Çağlar\\.nuget\\packages\\",
       "outputPath": "D:\\_Calismalar\\.Net\\Techbuddy\\BP.API\\BP.API.DATA.Models\\obj\\",
       "projectStyle": "PackageReference",

@@ -9,3 +9,7 @@ BP.API.Service -> Business Ýþlemizin yapýldýðý service
  * .Net5 ve 6 farklarýný, IConfiguration ve ConfigurationManager arasýndaki farklarý gördüm
 3- HealtCheck (Uygulama Saðlýk durumu)
 4- AutoMapper
+5- Validation (Doðrulama ve Kontrol Mekanizmasýna)
+6- Controller ve Http methodlarýnýn route
+7- Caching
+8-IHttpFactory (Harici api çaðýrma performansý) 

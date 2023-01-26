@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "yM8rnAOhu/NxOBgNdWv/q9me606q1qM51uauXM7O29W/gfdhnZnw9cQvMtyvo6dEgA11GLAo54tWTpD2NCZkyQ==",
+  "dgSpecHash": "xZlzD7EOa5L+0vvbeEX9BIe9r9I9LjFTjQC4wQ45c3/sZTfpKRJu/UaryuM0WZrNMY0HfZ3CJGpaKK4v8Yjbyw==",
   "success": true,
   "projectFilePath": "D:\\_Calismalar\\.Net\\Techbuddy\\BP.API\\BP.API.Services\\BP.API.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Çağlar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Çağlar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
